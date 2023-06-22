@@ -1,0 +1,6 @@
+levenshtein
+PyPDF2
+textblob
+nltk
+#cli3
+click
